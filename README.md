@@ -66,7 +66,7 @@ The dashboard focuses on key metrics in the healthcare domain, including:
 
 
 ## Business Impact
-   *  This dashboard helps hospitals:
+ This dashboard helps hospitals:
 
    * Track and reduce patient wait times
 
