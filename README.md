@@ -10,30 +10,59 @@ The dashboard focuses on key metrics in the healthcare domain, including:
 - Patient Admission Trends
 - Treatment Types and Frequencies
 - Department-wise Patient Distribution
-- Doctor-wise Efficiency
-- Revenue and Billing Overview
 
-##   Key Insights
 
-### 1. Patient Demographics
-- Age-wise distribution shows a higher number of patients between the age groups 30–50.
-- Majority of patients are from urban regions.
+##   Key Insights:
 
-### 2. Admissions & Treatments
-- General Medicine and Cardiology departments see the highest footfall.
-- Peak admission times are during weekdays between 10 AM – 2 PM.
+###  Total Waiting List Analysis:
 
-### 3. Revenue & Billing
-- 70% revenue is generated from surgical treatments.
-- Cashless insurance billing accounts for 55% of total payments.
+     * Latest month waiting list count: 709K
 
-### 4. Doctor Performance
-- Dr. Priya Sharma and Dr. Ravi Kumar have the highest patient satisfaction scores.
-- Average consultation time is below the target threshold of 30 minutes.
+     * Previous year comparison: 640K
+
+###   Case Type Breakdown:
+
+     * Outpatient cases dominate with over 74% of the waiting list
+
+     * Day Case (15%) and Inpatient (10%) follow
+
+Time Bands vs Age Profile:
+
+Majority of patients waiting 18+ months fall in the 16–64 age group
+
+Significant long wait times observed for younger and older populations in 0–3 month and 18+ month bands
+
+Specialty Insights:
+
+Top specialties with highest number of patients in queue:
+
+Paediatric Orthopaedics (140)
+
+ENT (82)
+
+Orthopaedics (81)
+
+Trend Over Time:
+
+Outpatient waiting list has grown steadily from 2017 to 2021, showing a clear upward trend
+
+Day Case and Inpatient trends remain relatively stable with slight fluctuations
+
+User Interaction:
+
+Interactive filters for Archive Date, Case Type, and Specialty Name
+
+Toggle between Average and Median wait times
+
+
+
+
+
+
 
 ##    Dashboard Preview
 
-_Add screenshot(s) here_
+
 
 
 <img width="1528" height="857" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/e2324e33-a961-4993-a0d4-15277a3486bf" />
