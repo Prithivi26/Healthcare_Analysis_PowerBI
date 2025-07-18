@@ -15,7 +15,7 @@ The dashboard focuses on key metrics in the healthcare domain, including:
 ##   Key Insights:
 
 ###  Total Waiting List Analysis:
- 
+     -
      - Latest month waiting list count: 709K
 
      * Previous year comparison: 640K
