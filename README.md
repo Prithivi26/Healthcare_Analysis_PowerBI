@@ -1,6 +1,7 @@
-#   Healthcare Power BI Dashboard
+#   Healthcare Analysis
 
-This project presents a **Power BI dashboard** that analyzes healthcare-related data to deliver meaningful insights into patient demographics, medical trends, and operational performance.
+##  Project Description
+This Healthcare Dashboard is built using Power BI to monitor and analyze hospital waiting list data over time. It helps healthcare professionals and administrators identify patient backlog trends, analyze case types, and optimize resource allocation based on specialty demand.
 
 ##   Dashboard Overview
 
@@ -35,9 +36,8 @@ The dashboard focuses on key metrics in the healthcare domain, including:
 _Add screenshot(s) here_
 
 
-markdown
-Copy
-Edit
+<img width="1528" height="857" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/e2324e33-a961-4993-a0d4-15277a3486bf" />
+
 
 ## 🛠 Tools Used
 
@@ -45,22 +45,4 @@ Edit
 - **DAX & Power Query**
 - Excel (as data source)
 
-##   Project Structure
 
-```bash
-├── Healthcare.pbix
-├── images/
-│   └── healthcare-dashboard.png
-└── README.md
-🚀 How to Run
-Download and install Power BI Desktop.
-
-Open the .pbix file in Power BI.
-
-Refresh the data (if needed) and explore the dashboard.
-
-📬 Contact
-For questions or collaboration:
-Prithivivasanthan Soundararajan
-📧 your-email@example.com
-🔗 LinkedIn
