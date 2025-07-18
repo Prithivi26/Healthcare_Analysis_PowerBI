@@ -26,37 +26,33 @@ The dashboard focuses on key metrics in the healthcare domain, including:
 
      * Day Case (15%) and Inpatient (10%) follow
 
-Time Bands vs Age Profile:
+###   Time Bands vs Age Profile:
 
-Majority of patients waiting 18+ months fall in the 16–64 age group
+    * Majority of patients waiting 18+ months fall in the 16–64 age group
 
-Significant long wait times observed for younger and older populations in 0–3 month and 18+ month bands
+    * Significant long wait times observed for younger and older populations in 0–3 month and 18+ month bands
 
-Specialty Insights:
+###   Specialty Insights:
 
-Top specialties with highest number of patients in queue:
+    * Top specialties with highest number of patients in queue:
 
-Paediatric Orthopaedics (140)
+     * Paediatric Orthopaedics (140)
 
-ENT (82)
+     * ENT (82)
 
-Orthopaedics (81)
+     * Orthopaedics (81)
 
-Trend Over Time:
+###   Trend Over Time:
 
-Outpatient waiting list has grown steadily from 2017 to 2021, showing a clear upward trend
+    * Outpatient waiting list has grown steadily from 2017 to 2021, showing a clear upward trend
 
-Day Case and Inpatient trends remain relatively stable with slight fluctuations
+    * Day Case and Inpatient trends remain relatively stable with slight fluctuations
 
-User Interaction:
+###   User Interaction:
 
-Interactive filters for Archive Date, Case Type, and Specialty Name
+    * Interactive filters for Archive Date, Case Type, and Specialty Name
 
-Toggle between Average and Median wait times
-
-
-
-
+    * Toggle between Average and Median wait times
 
 
 
@@ -64,8 +60,21 @@ Toggle between Average and Median wait times
 
 
 
-
 <img width="1528" height="857" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/e2324e33-a961-4993-a0d4-15277a3486bf" />
+
+
+
+
+## Business Impact
+   *  This dashboard helps hospitals:
+
+   * Track and reduce patient wait times
+
+   * Prioritize critical specialties and age groups
+
+   * Compare historical performance for strategic planning
+
+   * Enhance service delivery with data-driven decisions
 
 
 ## 🛠 Tools Used
